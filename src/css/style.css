@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+*{
+    font-family: 'Shippori Antique', sans-serif;
+}
+
+.banner{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner div{
+    justify-content: space-evenly;
+}
